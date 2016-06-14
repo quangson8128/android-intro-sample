@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">AndroidIntroPages</string>
+    <string name="prev">Prev</string>
+    <string name="next">Next</string>
+    <string name="background_image">background image</string>
+    <string name="welcome_to_my_blog">Welcome :)\nTo get more detail you can visit my blog: https://quangson8128.github.io</string>
 </resources>
