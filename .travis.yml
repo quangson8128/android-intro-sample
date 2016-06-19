@@ -7,4 +7,5 @@ android:
     - extra-android-m2repository
 
 script:
-   - ./gradlew build connectedCheck
+   - ./gradlew test --continue
+   - ./gradlew build
